@@ -1,0 +1,6 @@
+-- xlua.hotfix(CS.HotfixTest,"Update",function (self)
+--     print("<<< Update in Lua") --Lua代码替换unity代码
+-- end)
+-- xlua.hotfix(CS.HotFixTest2,"OnClick",function (self)
+--     self:LoadAsset("prefabs","Sphere");    --self  指C#中的this
+-- end)
